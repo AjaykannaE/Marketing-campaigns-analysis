@@ -40,6 +40,10 @@ The analysis is structured around the **Marketing Mix (4 Ps)** framework — Pro
 ├── marketing_data.csv                             # Marketing dataset
 └── README.md
 ```
+## Additional Resources
+
+This repository also includes a project summary document and interview questions
+for learners who want to understand the concepts covered in this project.
 
 ---
 
