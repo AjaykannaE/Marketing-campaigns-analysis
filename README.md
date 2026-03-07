@@ -2,7 +2,6 @@
 ### Course-End Project — Applied Data Science with Python
 
 **Author:** Ajaykanna E | **Course:** Applied Data Science with Python  
-**GitHub:** https://github.com/AjaykannaE/Marketing-campaigns-analysis
 
 ---
 
